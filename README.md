@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafalitri" alt="rafalitri" /></a> </p>
 
-- 🔭 Estoy trabajando actualmente **en la creación de scripts**
+- 🔭 Estoy trabajando actualmente **Ciberseguridad**
 
 - 🌱 Estoy aprendiendo **programación**
 
@@ -13,7 +13,6 @@
 
 - 💬 Preguntame de **Ciberseguridad, entornos controlados, redes, sistemas, hacking, virtualizacion, rooteos, emulacion...**
 
-- 📫 Contactame a **rafapagal13@gmail.com**
 
 <p align="left">
 </p>
