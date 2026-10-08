@@ -1,26 +1,21 @@
-<h1 align="center">Hola, soy Rafa</h1>
-<h3 align="center">Apasionado por la informática y la ciberseguridad</h3>
+<h1 align="center">Portfolio</h1>
+<p align="center"><strong>Sistemas · Redes · Ciberseguridad</strong></p>
 
-- Actualmente enfocado en **ciberseguridad**
-- Aprendiendo **programación**
-- Interesado en colaborar en proyectos de **ciberseguridad y desarrollo**
-- Me interesan la **IA, redes, sistemas, virtualización y hacking ético**
+```text
+           .-------------------------------.
+           |                               |
+           |  >_                           |
+           |                               |
+           |                               |
+           '-------------------------------'
+                  /_______________\
+```
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+Formado en **ASIR y Ciberseguridad**, con experiencia en prácticas en **Avanade**. Me gusta montar laboratorios, resolver problemas y entender cómo funcionan las cosas.
 
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+- **He trabajado con:** Linux, Windows Server, redes, Azure, Entra ID y PowerShell.
+- **Mis laboratorios:** servidor LAMP con respaldo en Raspberry Pi, router Debian y detección con Snort.
+- **Ahora:** aprendiendo C# y .NET con **Corporate Automation Lab**.
+- **Me interesa colaborar en:** sistemas, seguridad y automatización.
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalitri&show_icons=true&locale=es&layout=compact" alt="rafalitri" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=rafalitri&show_icons=true&locale=es" alt="rafalitri" />
-</p>
+<p align="center"><code>Linux</code> · <code>PowerShell</code> · <code>Bash</code> · <code>Azure</code> · <code>Git</code></p>
